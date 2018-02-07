@@ -1,1 +1,2 @@
-# List_Of_Micropython_Resources
+### List Of Great Resources I find when learning about  Micropython
+
