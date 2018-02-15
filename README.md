@@ -14,6 +14,7 @@
 [https://forum.micropython.org/](https://forum.micropython.org/)
 [https://www.pi4iot.com/doku.php?id=sbc:esp8266&s[]=micropython](https://www.pi4iot.com/doku.php?id=sbc:esp8266&s[]=micropython)
 [https://www.rototron.info/notebook/](https://www.rototron.info/notebook/)
+[https://techtutorialsx.com/tag/micropython/](https://techtutorialsx.com/tag/micropython/)
 
 ### Blogs
 
