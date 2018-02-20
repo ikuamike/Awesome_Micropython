@@ -5,7 +5,7 @@
 
 ### Official Docs
 
-[http://docs.micropython.org](http://docs.micropython.org)
+- [Micropython Official Docs](http://docs.micropython.org)
 
 ### Tutorials
 
@@ -19,13 +19,23 @@
 
 ### Plugins
 * [Intellij](https://github.com/vlasovskikh/intellij-micropython)
+* [Sublime Text](https://github.com/gepd/uPiotMicroPythonTool)
+* [Atom](https://atom.io/packages/microbit-python) -  MicroBit Support
+* [Chrome](https://chrome.google.com/webstore/detail/micropython/lhdjeebhcalhgnbigbngiaglmladclbo?hl=en-GB)
 
-### Blogs
 
 ### Books
 * [Programming with MicroPython](http://shop.oreilly.com/product/0636920056515.do)
 * [Adafruit Guide](https://cdn-learn.adafruit.com/downloads/pdf/micropython-basics-what-is-micropython.pdf)
 * [ESP8266 AND MICROPYTHON](https://www.elektor.com/esp8266-and-micropython-e-book)
+
+### Projects
+* [Hackaday](https://hackaday.io/projects?tag=micropython)
+* [Hackster](https://www.hackster.io/projects/tags/micropython)
+* [Home Automation](https://medium.com/@rxseger/esp8266-first-project-home-automation-with-relays-switches-pwm-and-an-adc-ad25f317c74f)
+* [Thingspeak](https://blog.gypsyengineer.com/en/diy-electronics/micropython-esp8266-sending-data-to-thingspeak.html)
+### Blogs
+
 ### Videos
 
 ### Interesting
