@@ -1,19 +1,19 @@
 # List Of Awesome Resources I find when learning about Micropython
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- ## Table Of Contents
-	- [Official Docs](#)
-	- [Tutorials](#)
-	- [Plugins](#)
-	- [Books](#)
-	- [Projects](#)
-	- [Blogs](#)
-	- [Talks](#)
-	- [Interesting](#)
+## Table Of Contents
+- [Oficial Docs](#)
+- [Tutorials](#)
+- [Plugins](#)
+- [Books](#)
+- [Projects](#)
+- [Blogs](#)
+- [Talks](#)
+
 
 ### Official Docs
 
-- [Micropython Official Docs](http://docs.micropython.org)
+* [Micropython Official Docs](http://docs.micropython.org)
 
 ### Tutorials
 
@@ -44,6 +44,5 @@
 * [Thingspeak](https://blog.gypsyengineer.com/en/diy-electronics/micropython-esp8266-sending-data-to-thingspeak.html)
 ### Blogs
 
-### Videos
+### Talks
 
-### Interesting
