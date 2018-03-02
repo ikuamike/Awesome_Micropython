@@ -57,3 +57,7 @@
 - [PyCon Australia 2016 • ESP8266 and MicroPython - Nick Moore](https://www.youtube.com/watch?v=C19fFU-TVWU)
 - [GOTO Amsterdam 2016 • MicroPython & the Internet of Things - Damien George](https://www.youtube.com/watch?v=EvGhPmPPzko&t=447s)
 - [PyCon South Africa 2016 • MicroPython: Python for microcontrollers and constrained environments](https://www.youtube.com/watch?v=srrf-25_Ytw)
+
+## License
+
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
