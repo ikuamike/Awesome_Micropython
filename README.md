@@ -1,8 +1,6 @@
-# List Of Awesome Resources I find when learning about Micropython
+# Awesome MicroPython [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-## Table Of Contents
+## Contents
 
 - [Oficial Docs](#)
 - [Tutorials](#)
