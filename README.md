@@ -4,6 +4,8 @@
 
 - [Official Docs](#official-docs)
 - [Supported Boards](#supported-boards)
+  - [Officially Supported Boards](#officially-supported-boards)
+  - [Un-Officially Supported Boards](#un-officially-supported-boards)
 - [Tutorials](#tutorials)
 - [Plugins](#plugins)
 - [Books](#books)
