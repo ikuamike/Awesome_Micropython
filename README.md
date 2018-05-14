@@ -17,20 +17,20 @@
 
 ### Supported Boards
 
-#### Officially Supported Boards
+- #### Officially Supported Boards
 
-- [PyBoard - the officially supported reference electronic circuit board.](https://store.micropython.org/category/pyboards)
-- [WiPy](http://micropython.org/resources/docs/en/latest/wipy/)
-- [ESP8266](http://micropython.org/resources/docs/en/latest/esp8266/)
-- [ESP32](https://github.com/micropython/micropython/tree/master/ports/esp32)
+  - [PyBoard - the officially supported reference electronic circuit board.](https://store.micropython.org/category/pyboards)
+  - [WiPy](http://micropython.org/resources/docs/en/latest/wipy/)
+  - [ESP8266](http://micropython.org/resources/docs/en/latest/esp8266/)
+  - [ESP32](https://github.com/micropython/micropython/tree/master/ports/esp32)
 
-#### Un-Officially Supported Boards
+- #### Un-Officially Supported Boards
 
-- [STM32F4 Discovery board](#)
-- [NUCLEO-F401RE board](#)
-- [NUCLEO-F767ZI board](#)
-- [NUCLEO-L476RG board](#)
-- [Espruino Pico](#)
+  - [STM32F4 Discovery board](#)
+  - [NUCLEO-F401RE board](#)
+  - [NUCLEO-F767ZI board](#)
+  - [NUCLEO-L476RG board](#)
+  - [Espruino Pico](#)
 
 ### Tutorials
 
