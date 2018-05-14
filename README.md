@@ -1,6 +1,6 @@
 # Awesome MicroPython [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<a href="http://www.micropython.org/"><img src="https://avatars2.githubusercontent.com/u/6298560?s=200&v=4" alt="MicroPython Logo" align="left" style="margin-right: 25px" height=150></a>
+<a href="http://www.micropython.org/"><img src="https://avatars2.githubusercontent.com/u/6298560?s=200&v=4" alt="MicroPython Logo" align="left" style="margin-right: 25px" height=120></a>
 
 > MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. Official Link: [MicroPython Homepage](http://www.micropython.org/)
 
