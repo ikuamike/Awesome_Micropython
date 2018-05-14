@@ -3,7 +3,7 @@
 ## Contents
 
 - [Official Docs](#official-docs)
-- [Supported Ports](#supported-boards)
+- [Supported Ports](#supported-ports)
 - [Tutorials](#tutorials)
 - [Plugins](#plugins)
 - [Books](#books)
