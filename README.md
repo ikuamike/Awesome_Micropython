@@ -60,15 +60,15 @@
 
 ### Talks
 
-- [LinuxConfAu 2018, Sydney, Australia • Getting Started with MicroPython - Nick Moore](https://www.youtube.com/watch?v=inUMgHQ62sA)
-- [PyCon Australia 2017 • Using MicroPython in the wild - Damien George](https://www.youtube.com/watch?v=WI-nTf5iM84)
-- [PyConWeb Munich 2017 • Programming the Web of Things with Python and MicroPython - Hardy Erlinger](https://www.youtube.com/watch?v=_-jFb9HSdk4)
-- [Pycon Ireland 2017 • MicroPython: The Next Step to World Domination - Steve Holden](https://www.youtube.com/watch?v=2gPU2CXiphQ&t=1460s)
-- [PyTexas 2017 • MicroPython on an ESP8266 - Christopher Cooper](https://www.youtube.com/watch?v=V5xs2DpQi1s)
-- [PyCon Australia 2016 • MicroPython: Embedded programming for everyone - Jim Mussared](https://www.youtube.com/watch?v=oCEZyJqkMrE)
-- [PyCon Australia 2016 • ESP8266 and MicroPython - Nick Moore](https://www.youtube.com/watch?v=C19fFU-TVWU)
-- [GOTO Amsterdam 2016 • MicroPython & the Internet of Things - Damien George](https://www.youtube.com/watch?v=EvGhPmPPzko&t=447s)
-- [PyCon South Africa 2016 • MicroPython: Python for microcontrollers and constrained environments](https://www.youtube.com/watch?v=srrf-25_Ytw)
+- [LinuxConfAu 2018, Sydney, Australia](https://www.youtube.com/watch?v=inUMgHQ62sA) • Getting Started with MicroPython - Nick Moore
+- [PyCon Australia 2017](https://www.youtube.com/watch?v=WI-nTf5iM84) • Using MicroPython in the wild - Damien George
+- [PyConWeb Munich 2017](https://www.youtube.com/watch?v=_-jFb9HSdk4) • Programming the Web of Things with Python and MicroPython - Hardy Erlinger
+- [Pycon Ireland 2017](https://www.youtube.com/watch?v=2gPU2CXiphQ&t=1460s) • MicroPython: The Next Step to World Domination - Steve Holden
+- [PyTexas 2017](https://www.youtube.com/watch?v=V5xs2DpQi1s) • MicroPython on an ESP8266 - Christopher Cooper
+- [PyCon Australia 2016](https://www.youtube.com/watch?v=oCEZyJqkMrE) • MicroPython: Embedded programming for everyone - Jim Mussared
+- [PyCon Australia 2016](https://www.youtube.com/watch?v=C19fFU-TVWU) • ESP8266 and MicroPython - Nick Moore
+- [GOTO Amsterdam 2016](https://www.youtube.com/watch?v=EvGhPmPPzko&t=447s) • MicroPython & the Internet of Things - Damien George
+- [PyCon South Africa 2016](https://www.youtube.com/watch?v=srrf-25_Ytw) • MicroPython: Python for microcontrollers and constrained environments
 
 ### Tutorials
 
