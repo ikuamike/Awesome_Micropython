@@ -3,7 +3,7 @@
 ## Contents
 
 - [Official Docs](#official-docs)
-- [Supported Ports](#supported-ports)
+- [Supported Boards](#supported-boards)
 - [Tutorials](#tutorials)
 - [Plugins](#plugins)
 - [Books](#books)
@@ -15,11 +15,22 @@
 
 - [Micropython Official Docs](http://docs.micropython.org)
 
-### Supported Ports
+### Supported Boards
+
+#### Officially Supported Boards
 
 - [PyBoard - the officially supported reference electronic circuit board.](https://store.micropython.org/category/pyboards)
 - [WiPy](http://micropython.org/resources/docs/en/latest/wipy/)
 - [ESP8266](http://micropython.org/resources/docs/en/latest/esp8266/)
+- [ESP32](https://github.com/micropython/micropython/tree/master/ports/esp32)
+
+#### Un-Officially Supported Boards
+
+- [STM32F4 Discovery board](#)
+- [NUCLEO-F401RE board](#)
+- [NUCLEO-F767ZI board](#)
+- [NUCLEO-L476RG board](#)
+- [Espruino Pico](#)
 
 ### Tutorials
 
