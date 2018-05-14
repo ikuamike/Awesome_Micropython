@@ -36,6 +36,7 @@
 - [Programming with MicroPython](http://shop.oreilly.com/product/0636920056515.do)
 - [Adafruit Guide](https://cdn-learn.adafruit.com/downloads/pdf/micropython-basics-what-is-micropython.pdf)
 - [ESP8266 AND MICROPYTHON](https://www.elektor.com/esp8266-and-micropython-e-book)
+- [MicroPython for the Internet of Things - A Beginner’s Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)
 
 ### Projects
 
