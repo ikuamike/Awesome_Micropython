@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Oficial Docs](#)
+- [Official Docs](#)
 - [Tutorials](#)
 - [Plugins](#)
 - [Books](#)
