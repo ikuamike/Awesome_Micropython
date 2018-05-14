@@ -20,7 +20,7 @@
 
 - ### Officially Supported Boards
 
-  - [PyBoard - the officially supported reference electronic circuit board.](https://store.micropython.org/category/pyboards)
+  - [PyBoard](https://store.micropython.org/category/pyboards) - the officially supported reference electronic circuit board.
   - [WiPy](http://micropython.org/resources/docs/en/latest/wipy/)
   - [ESP8266](http://micropython.org/resources/docs/en/latest/esp8266/)
   - [ESP32](https://github.com/micropython/micropython/tree/master/ports/esp32)
