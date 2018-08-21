@@ -60,6 +60,7 @@
 
 ### Talks
 
+- [NDC Oslo, June 2018](https://youtu.be/2fVItYQ5YSQ) • IoT is fun using MicroPython - Sebastian Roll
 - [LinuxConfAu 2018, Sydney, Australia](https://www.youtube.com/watch?v=inUMgHQ62sA) • Getting Started with MicroPython - Nick Moore
 - [PyCon Australia 2017](https://www.youtube.com/watch?v=WI-nTf5iM84) • Using MicroPython in the wild - Damien George
 - [PyConWeb Munich 2017](https://www.youtube.com/watch?v=_-jFb9HSdk4) • Programming the Web of Things with Python and MicroPython - Hardy Erlinger
