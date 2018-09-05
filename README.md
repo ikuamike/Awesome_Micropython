@@ -60,7 +60,7 @@
 
 ### Talks
 
-- [Pycon Australia, August 2018](https://www.youtube.com/watch?v=hHec4qL00x0) • Writing fast and efficient MicroPython - Damien George
+- [Pycon Australia, August 2018](https://youtu.be/hHec4qL00x0) • Writing fast and efficient MicroPython - Damien George
 - [NDC Oslo, June 2018](https://youtu.be/2fVItYQ5YSQ) • IoT is fun using MicroPython - Sebastian Roll
 - [LinuxConfAu 2018, Sydney, Australia](https://www.youtube.com/watch?v=inUMgHQ62sA) • Getting Started with MicroPython - Nick Moore
 - [PyCon Australia 2017](https://www.youtube.com/watch?v=WI-nTf5iM84) • Using MicroPython in the wild - Damien George
